@@ -27,7 +27,7 @@
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.11",
     "@types/sql.js": "^1.4.9",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   },
   "files": [
     "dist",

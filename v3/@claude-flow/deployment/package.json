@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "semantic-release": "^25.0.2",
-    "vitest": "^4.1.0"
+    "vitest": "^4.1.11"
   },
   "publishConfig": {
     "access": "public"
